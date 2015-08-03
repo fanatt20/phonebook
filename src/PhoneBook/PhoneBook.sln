@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "PhoneBook.Core\Core.csproj", "{450A5B75-D93D-46A0-B29C-903BA32851CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "PhoneBook.Data\Data.csproj", "{35977C16-E03E-4506-B2AB-284EEA7D5CC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{58879A70-E408-4E8A-831E-394F9347EF13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57CC9D88-20EA-4BDF-B7B0-36F6A46A54E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CC9D88-20EA-4BDF-B7B0-36F6A46A54E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CC9D88-20EA-4BDF-B7B0-36F6A46A54E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CC9D88-20EA-4BDF-B7B0-36F6A46A54E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450A5B75-D93D-46A0-B29C-903BA32851CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450A5B75-D93D-46A0-B29C-903BA32851CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450A5B75-D93D-46A0-B29C-903BA32851CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450A5B75-D93D-46A0-B29C-903BA32851CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35977C16-E03E-4506-B2AB-284EEA7D5CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35977C16-E03E-4506-B2AB-284EEA7D5CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35977C16-E03E-4506-B2AB-284EEA7D5CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35977C16-E03E-4506-B2AB-284EEA7D5CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58879A70-E408-4E8A-831E-394F9347EF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58879A70-E408-4E8A-831E-394F9347EF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58879A70-E408-4E8A-831E-394F9347EF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58879A70-E408-4E8A-831E-394F9347EF13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
